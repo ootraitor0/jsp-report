@@ -5,7 +5,7 @@
     - 구매자가 상품을 검색해서 구매 할 수 있도록 설계 합니다
  3. 데이터베이스로 Oracle 11g을 이용합니다
  4. 디자인과 접근 방법을 반영하고 문서를 작성합니다
- 5. 웹페이지 구현시 사용하는 JSP,JAVA Servlet, JAVABeann 기술을 사용 합니다
+ 5. 웹페이지 구현시 사용하는 JSP,JAVA Servlet, JAVABeann 기술등을 사용 합니다
  
  <준비물>
  1. Java와 JSP 소스 코드
